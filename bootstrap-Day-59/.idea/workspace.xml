@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f364d1d9-daf6-450c-861f-5f89f7f61bb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/Blog-Updated.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog-Updated/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-43-ZIllo-Capston/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/Day-50-Tinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-50-Tinder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/Day-51-Tweeter-internet-Speeds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/internet_speed_twitter_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-51-Tweeter-internet-Speeds/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-53/.idea/Day-54.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/Day-56-My-Personal-Site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_intro.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_navPanel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_fixed-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/dr-roxo-a-rock-modified.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/generic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/static/images/pic09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-56-My-Personal-Site/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-59/.idea/Day-59.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-59/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/Higher-Lower.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Higher-Lower/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/Name-Card.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Name-Card/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/TinDog+Start+Here.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinDog+Start+Here/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/Up-Template-Website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Up-Template-Website/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/blog-templating-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bootstrap-Day-59.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/day-57-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/static/styles.css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-57-start/templates/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/material-kit-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-kit-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/Blog-Updated-Fucntionality.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-gh-pages/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/startbootstrap-clean-blog-jekyll-gh-pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startbootstrap-clean-blog-jekyll-gh-pages/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-49/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-49/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-49/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-49/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Development/Day-48/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Development/Day-48/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Development/HTML_Personal_Site/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Development/HTML_Personal_Site/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Development/HTML_Personal_Site/dr-roxo-a-rock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Development/HTML_Personal_Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Development/HTML_Personal_Site/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="265yfYdLX3oIGspwa31xiZSsp8M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TinDog+Start+Here" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bootstrap-Day-59" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f364d1d9-daf6-450c-861f-5f89f7f61bb7" name="Changes" comment="" />
+      <created>1646727845852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646727845852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

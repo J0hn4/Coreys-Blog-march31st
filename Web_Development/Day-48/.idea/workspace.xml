@@ -2,156 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b7e2d43-824e-4097-bdbe-716175624348" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Birthday+Wisher+(Day+32)+start/.idea/Birthday+Wisher+(Day+32)+start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/CSS+Debugging+Problems+1+and+2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/Debugging Problem 1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CSS+Debugging+Problems+1+and+2/Debugging Problem 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-25-New/.idea/Day-25-New.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-26/.idea/Day-26.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-27/.idea/Day-27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-28/.idea/Day-28.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-29/.idea/Day-29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-30/.idea/Day-30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-32/.idea/Day-32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-33/.idea/Day-33.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/Day-36.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-36/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/Day-41.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day-41/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Habit-Tracker/.idea/Habit-Tracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/NATO+Phonetic+Alphabet+for+the+Code+Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Nato-Alphabet-Project/.idea/Nato-Alphabet-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Password+Manager+(End+of+Day+29)/.idea/Password+Manager+(End+of+Day+29).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Password+Manager+(End+of+Day+29)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Pong_Game/.idea/Pong_Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Rain-Alert/.idea/Rain-Alert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Solution+-+NATO-alphabet-improved-end/.idea/Solution+-+NATO-alphabet-improved-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Solution+-+issoverhead-end/.idea/Solution+-+issoverhead-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/Starting+Code+-+100+movies+to+watch+start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/Starting Code - 100 movies to watch start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/Starting Code - 100 movies to watch start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Starting+Code+-+100+movies+to+watch+start/Starting Code - 100 movies to watch start/movies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teacher_Version_ US_states_ project/.idea/Teacher_Version_ US_states_ project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../US-states-Project/.idea/US-states-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/CSS+Debugging+Problems+1+and+2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Web_Development.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Billboard-song-list/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-47-Amazon_product-webscrapper/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/HTML_Personal_Site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/CSS+-+Bacon+Fansite/CSS - Bacon Fansite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/dr-roxo-a-rock-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/dr-roxo-a-rock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/original.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/temp2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML_Personal_Site/templ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/My-CV-Website-Pro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/CSS - My Site Images/angela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/CSS - My Site Images/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/CSS - My Site Images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/CSS - My Site Images/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/CSS - My Site Images/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/__MACOSX/CSS - My Site Images/._angela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/__MACOSX/CSS - My Site Images/._chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/CSS+-+My+Site+Images/__MACOSX/CSS - My Site Images/._computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/css/temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/CG_07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/angela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/animewak4ccde0e775ab2efd9d3f55f03dfec8c6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/computer_hacker_by_le_pixel_rebel-d7pe2ub.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/digitalanon12x612.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/images/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-CV-Website-Pro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubCode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../birthday-wisher-hard-start/.idea/birthday-wisher-hard-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../black_jack_version1/.idea/black_jack_version1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/bs4-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bs4-start/website.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../class-inheritance/.idea/class-inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../coffee_machine/.idea/coffee_machine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-16/.idea/day-16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-17-start/.idea/day-17-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-18-start/.idea/day-18-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-19/.idea/day-19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-24/.idea/day-24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-25/.idea/day-25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flash-card-project-start/.idea/flash-card-project-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/flight-deals-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../flight-deals-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hirst-painting/.idea/hirst-painting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../issoverhead-start/.idea/issoverhead-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kanye-quotes-start/.idea/kanye-quotes-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../macchanger/.idea/macchanger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../miles-to-kilometers/.idea/miles-to-kilometers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../oopcoffeeproject2/.idea/oopcoffeeproject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../quiz-game_start/.idea/quiz-game_start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../quiz-project/.idea/quiz-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../snake2teacher/.idea/snake2teacher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../snake_game/.idea/snake_game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stock-news-hard-start/.idea/stock-news-hard-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../stock-news-normal-start/.idea/stock-news-normal-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../turtle_crossing/.idea/turtle_crossing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../turtle_crossing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/Day-50-Tinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-50-Tinder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/Day-51-Tweeter-internet-Speeds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/internet_speed_twitter_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-51-Tweeter-internet-Speeds/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day-25/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day-49/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day-49/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day-49/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day-49/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
